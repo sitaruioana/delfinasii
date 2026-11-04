@@ -1,0 +1,1367 @@
+[
+  {
+    "id": 1,
+    "title": "Imaginea are o ordine",
+    "theme": "Limbaj vizual",
+    "text": "Într-un tablou, obiectele nu sunt așezate la întâmplare. Compoziția este felul în care artistul organizează elementele imaginii. Un centru de interes atrage privirea înaintea celorlalte detalii, prin poziție, mărime sau culoare. Dominanta este însușirea care predomină, de exemplu albastrul într-un peisaj marin. Unitatea apare când părțile lucrării se leagă într-un întreg coerent. Asemenea unui text bine construit, imaginea își conduce privitorul de la un detaliu la altul.",
+    "gap": "Organizarea elementelor imaginii se numește {0}, iar însușirea care predomină este {1}.",
+    "answers": [
+      "compoziție",
+      "dominanta"
+    ],
+    "questions": [
+      [
+        "Comparația cu un text bine construit sugerează că imaginea",
+        "are o organizare care ghidează privitorul",
+        "are un centru de interes în același loc în fiecare lucrare",
+        "își construiește unitatea printr-o singură culoare",
+        "își prezintă toate detaliile cu aceeași importanță"
+      ],
+      [
+        "Ce exemplu de dominantă apare în text?",
+        "Albastrul într-un peisaj marin.",
+        "Culoarea care atrage prima privirea, chiar dacă ocupă foarte puțin spațiu.",
+        "Poziția obiectului cel mai apropiat de centrul geometric.",
+        "Mărimea detaliului care întrerupe unitatea lucrării."
+      ],
+      [
+        "De ce observăm mai întâi centrul de interes?",
+        "Anumite trăsături îl pun în evidență.",
+        "Însușirea predominantă este obligatoriu și detaliul observat primul.",
+        "Privirea urmează ordinea în care au fost pictate obiectele.",
+        "Unitatea cere ca toate detaliile să aibă aceeași mărime."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Culoarea poate contribui atât la dominanta unei lucrări, cât și la centrul ei de interes.",
+        "answer": true
+      },
+      {
+        "text": "Compoziția și dominanta denumesc amândouă organizarea elementelor.",
+        "answer": false
+      },
+      {
+        "text": "În exemplul peisajului marin, dominanta este legată de albastru.",
+        "answer": true
+      },
+      {
+        "text": "Unitatea înseamnă că fiecare detaliu este observat înaintea celorlalte.",
+        "answer": false
+      },
+      {
+        "text": "Centrul de interes se află neapărat în centrul geometric.",
+        "answer": false
+      },
+      {
+        "text": "Comparația finală pune în legătură organizarea imaginii și organizarea textului.",
+        "answer": true
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Armonie, contrast și ritm",
+    "theme": "Limbaj vizual",
+    "text": "Armonia înseamnă potrivirea elementelor unei lucrări. Contrastul pune în evidență deosebiri: lumină și umbră, mare și mic, cald și rece. Ritmul apare prin repetarea sau alternarea elementelor. Proporția este raportul de mărime dintre părți și întreg. Într-un desen cu ferestre repetate, putem observa ritmul; dacă una este mult mai mare, contrastul ne atrage atenția. Aceste relații construiesc echilibrul vizual, fără ca toate elementele să fie identice.",
+    "gap": "Potrivirea elementelor se numește {0}, iar repetarea lor poate crea {1}.",
+    "answers": [
+      "armonie",
+      "ritm"
+    ],
+    "questions": [
+      [
+        "Expresia „echilibru vizual” se referă la",
+        "relația dintre elementele imaginii",
+        "potrivirea raporturilor dintre greutățile obiectelor reprezentate",
+        "repetarea identică a tuturor formelor din imagine",
+        "eliminarea deosebirilor dintre elementele compoziției"
+      ],
+      [
+        "Ce exemplu ilustrează ritmul?",
+        "Ferestrele repetate.",
+        "Fereastra care depășește mărimea celorlalte.",
+        "Raportul dintre o fereastră și întregul perete.",
+        "Potrivirea culorii ferestrelor cu cea a zidului."
+      ],
+      [
+        "De ce atrage atenția fereastra mult mai mare?",
+        "Creează un contrast de mărime.",
+        "Repetarea ferestrelor o face să pară egală cu celelalte.",
+        "Armonia înseamnă că mărimea ei nu mai contează.",
+        "Proporția se referă la culoarea diferită a ferestrei."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Raportul dintre mărimea ferestrei și întregul desen ține de proporție.",
+        "answer": true
+      },
+      {
+        "text": "Fereastra mult mai mare ilustrează în primul rând ritmul, deoarece diferă.",
+        "answer": false
+      },
+      {
+        "text": "Armonia și contrastul au în text același sens.",
+        "answer": false
+      },
+      {
+        "text": "Alternarea unor elemente poate produce ritm chiar dacă ele nu sunt identice.",
+        "answer": true
+      },
+      {
+        "text": "Mare–mic și cald–rece exemplifică două tipuri de deosebiri.",
+        "answer": true
+      },
+      {
+        "text": "Echilibrul vizual cere eliminarea ferestrei diferite.",
+        "answer": false
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Culoarea spune mai mult",
+    "theme": "Limbaj vizual",
+    "text": "O imagine monocromă folosește o singură culoare, cu tonuri mai luminoase sau mai întunecate. O imagine policromă folosește mai multe culori. Saturația arată cât de intensă este o culoare, iar pigmentul este substanța care contribuie la colorarea vopselei. O suprafață opacă nu lasă lumina să treacă. Nu orice diferență de culoare este puternică: o nuanță poate fi o variație foarte fină, asemenea unei diferențe subtile de sens dintre două cuvinte.",
+    "gap": "O imagine cu o singură culoare este {0}, iar una cu mai multe culori este {1}.",
+    "answers": [
+      "monocromă",
+      "policromă"
+    ],
+    "questions": [
+      [
+        "Comparația finală arată că o nuanță poate exprima",
+        "o diferență subtilă",
+        "o schimbare a intensității care elimină tonurile intermediare",
+        "o variație care presupune trecerea la o altă culoare de bază",
+        "o diferență vizibilă doar dacă suprafața este transparentă"
+      ],
+      [
+        "Ce indică saturația?",
+        "Intensitatea unei culori.",
+        "Gradul în care suprafața lasă lumina să treacă.",
+        "Diferența dintre tonurile luminoase și cele întunecate.",
+        "Numărul culorilor folosite într-o imagine."
+      ],
+      [
+        "De ce poate avea o imagine monocromă zone diferite?",
+        "Aceeași culoare poate avea tonuri luminoase și întunecate.",
+        "Tonurile diferite presupun folosirea mai multor culori distincte.",
+        "Suprafața opacă împiedică reprezentarea oricărei umbre.",
+        "Pigmentul schimbă o imagine monocromă într-una policromă."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "O imagine monocromă poate avea atât zone luminoase, cât și zone întunecate.",
+        "answer": true
+      },
+      {
+        "text": "Intensitatea unei culori și numărul culorilor unei imagini sunt aceeași însușire.",
+        "answer": false
+      },
+      {
+        "text": "În text, opacitatea este explicată prin trecerea luminii.",
+        "answer": true
+      },
+      {
+        "text": "Pigmentul contribuie la colorare, iar saturația descrie intensitatea culorii.",
+        "answer": true
+      },
+      {
+        "text": "O nuanță fină transformă obligatoriu monocromia în policromie.",
+        "answer": false
+      },
+      {
+        "text": "Comparația finală arată că sensurile cuvintelor nu pot avea diferențe subtile.",
+        "answer": false
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Spațiul pe o foaie",
+    "theme": "Limbaj vizual",
+    "text": "Foaia este plană, dar un desen poate sugera adâncimea. Perspectiva ajută la reprezentarea spațiului tridimensional pe o suprafață cu două dimensiuni. Lumina și umbra pot sugera volumul, iar hașura folosește linii pentru a crea umbre. Textura este aspectul unei suprafețe: aspră, netedă sau catifelată. Într-un tablou, putem vedea impresia de asprime fără să o simțim cu mâna. Textura vizuală sugerează, în timp ce textura tactilă poate fi percepută prin atingere.",
+    "gap": "Adâncimea este sugerată prin {0}, iar umbrele pot fi create prin linii, folosind {1}.",
+    "answers": [
+      "perspectivă",
+      "hașura"
+    ],
+    "questions": [
+      [
+        "În text, „sugerează adâncimea” înseamnă",
+        "creează impresia de adâncime",
+        "reproduce adâncimea prin grosimea reală a suportului",
+        "transformă textura vizuală într-o suprafață tactilă",
+        "arată o suprafață numai prin contur, fără volum"
+      ],
+      [
+        "Cum percepem textura tactilă?",
+        "Prin atingere.",
+        "Prin observarea umbrelor fără atingere.",
+        "Prin recunoașterea obiectului reprezentat.",
+        "Prin compararea liniilor perspectivei."
+      ],
+      [
+        "De ce nu trebuie atins un tablou ca să observăm asprimea reprezentată?",
+        "Textura vizuală poate crea această impresie.",
+        "Umbrele din pictură schimbă materialul suprafeței.",
+        "Perspectiva face ca toate texturile să fie tactile.",
+        "Hașura înlătură diferența dintre impresie și atingere."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Perspectiva și textura tactilă sunt două denumiri ale adâncimii reale a foii.",
+        "answer": false
+      },
+      {
+        "text": "Liniile hașurii pot ajuta la sugerarea umbrei.",
+        "answer": true
+      },
+      {
+        "text": "Un obiect reprezentat ca aspru poate fi pictat pe o suprafață care nu are acea asprime.",
+        "answer": true
+      },
+      {
+        "text": "Lumina și umbra pot sugera volumul fără ca foaia să devină tridimensională ca obiectul.",
+        "answer": true
+      },
+      {
+        "text": "Textura vizuală se verifică obligatoriu prin atingerea tabloului.",
+        "answer": false
+      },
+      {
+        "text": "În text, neted și catifelat sunt exemple de procedee de perspectivă.",
+        "answer": false
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Ce reprezintă o lucrare?",
+    "theme": "Pictură și tehnici",
+    "text": "În arta figurativă recunoaștem oameni, obiecte sau locuri, chiar dacă nu sunt redați ca într-o fotografie. Arta abstractă folosește forme, linii și culori fără să urmărească neapărat obiecte recognoscibile. Peisajul prezintă un loc, natural sau urban. Natura statică reprezintă obiecte aranjate, precum fructe, cărți și vase. Alegerea subiectului nu hotărăște singură valoarea unei lucrări: contează și felul expresiv în care artistul îl prezintă privitorului.",
+    "gap": "Un loc natural sau urban apare într-un {0}; obiectele aranjate apar în natura {1}.",
+    "answers": [
+      "peisaj",
+      "statică"
+    ],
+    "questions": [
+      [
+        "„Expresiv” înseamnă aici",
+        "capabil să transmită sugestiv o idee sau o emoție",
+        "redat cu fidelitate fotografică în fiecare detaliu",
+        "ușor de recunoscut indiferent de felul prezentării",
+        "încadrat obligatoriu în categoria peisajului"
+      ],
+      [
+        "Ce obiecte sunt menționate pentru natura statică?",
+        "Fructe, cărți și vase.",
+        "Fructe și vase, alături de un peisaj marin.",
+        "Cărți și vase, alături de o vedere a orașului.",
+        "Flori și copaci în spațiul unei grădini."
+      ],
+      [
+        "De ce o imagine figurativă nu trebuie să fie fotografică?",
+        "Subiectul poate rămâne recognoscibil într-o reprezentare diferită.",
+        "Reprezentarea figurativă devine abstractă când diferă de fotografie.",
+        "Alegerea unui obiect cunoscut hotărăște singură valoarea lucrării.",
+        "O reprezentare recognoscibilă trebuie să redea toate detaliile."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Un peisaj urban intră în categoria naturii statice deoarece reprezintă clădiri.",
+        "answer": false
+      },
+      {
+        "text": "Diferența față de fotografie nu exclude caracterul figurativ.",
+        "answer": true
+      },
+      {
+        "text": "Cărțile pot apărea printre obiectele unei naturi statice.",
+        "answer": true
+      },
+      {
+        "text": "Felul în care este prezentat subiectul contează alături de alegerea acestuia.",
+        "answer": true
+      },
+      {
+        "text": "Arta abstractă urmărește neapărat obiecte recognoscibile.",
+        "answer": false
+      },
+      {
+        "text": "În text, valoarea artistică este stabilită prin categoria subiectului.",
+        "answer": false
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "În atelierul pictorului",
+    "theme": "Pictură și tehnici",
+    "text": "Înaintea unei lucrări, artistul poate face o schiță: un desen rapid cu trăsăturile principale. Șevaletul susține lucrarea în timpul pictării, iar pânza poate fi întinsă pe un cadru numit șasiu. Acuarela, diluată în apă, permite efecte de transparență. Tușa este urma aplicării culorii cu pensula sau cu alt instrument. Un strat gros de vopsea poate crea relief. Tehnica nu este doar o rețetă: ea ajută artistul să obțină efectul dorit.",
+    "gap": "Desenul rapid este o {0}, iar suportul care susține lucrarea în timpul pictării este {1}.",
+    "answers": [
+      "schiță",
+      "șevaletul"
+    ],
+    "questions": [
+      [
+        "„Nu este doar o rețetă” sugerează că tehnica",
+        "servește intenției artistice",
+        "se obține fără cunoașterea procedeelor de lucru",
+        "produce același efect indiferent de intenția artistului",
+        "are valoare prin numărul materialelor utilizate"
+      ],
+      [
+        "Ce permite acuarela diluată în apă?",
+        "Efecte de transparență.",
+        "O suprafață reliefată obținută din straturi groase.",
+        "Urme care fixează pânza pe șasiu.",
+        "Trăsături principale schițate fără apă."
+      ],
+      [
+        "De ce poate varia grosimea stratului de vopsea?",
+        "Artistul urmărește efecte diferite, inclusiv relief.",
+        "Grosimea stratului are rolul de a fixa pânza pe șevalet.",
+        "Orice tușă cere un strat gros, indiferent de efect.",
+        "Transparența acuarelei se obține prin îngroșarea vopselei."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Șasiul și șevaletul au în text aceeași funcție.",
+        "answer": false
+      },
+      {
+        "text": "Tușa se referă la urma aplicării culorii, nu la desenul preliminar.",
+        "answer": true
+      },
+      {
+        "text": "Schița reține trăsăturile principale înaintea dezvoltării lucrării.",
+        "answer": true
+      },
+      {
+        "text": "Transparența acuarelei este pusă în legătură cu straturile groase de relief.",
+        "answer": false
+      },
+      {
+        "text": "Un strat gros poate modifica aspectul suprafeței pictate.",
+        "answer": true
+      },
+      {
+        "text": "Conform textului, tehnica produce efectul dorit indiferent de alegerea artistului.",
+        "answer": false
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Fresca, mozaicul și vitraliul",
+    "theme": "Pictură și tehnici",
+    "text": "Pictura murală este realizată pe pereți sau tavane. Fresca este o tehnică de pictare pe tencuială proaspătă, umedă. Mozaicul alcătuiește imagini din bucățele de piatră, sticlă ori ceramică. Vitraliul folosește sticlă colorată și apare adesea la ferestre. De aproape, un mozaic își arată fragmentele; de la distanță, acestea se reunesc în imagine. În toate aceste forme de artă, lucrarea intră în relație cu arhitectura, iar lumina îi poate schimba înfățișarea.",
+    "gap": "Fresca se realizează pe tencuială {0}, iar sticla colorată de la ferestre alcătuiește un {1}.",
+    "answers": [
+      "umedă",
+      "vitraliu"
+    ],
+    "questions": [
+      [
+        "„Se reunesc în imagine” sugerează că fragmentele",
+        "formează împreună un întreg vizual",
+        "formează un întreg numai dacă sunt din același material",
+        "se disting mai bine separat când privitorul se îndepărtează",
+        "devin părți ale tencuielii umede pe care sunt pictate"
+      ],
+      [
+        "Ce materiale poate utiliza mozaicul?",
+        "Piatră, sticlă ori ceramică.",
+        "Piatră, sticlă și tencuială pictată ca în frescă.",
+        "Sticlă colorată montată numai în ferestre.",
+        "Ceramică pe care imaginea este pictată fără fragmente."
+      ],
+      [
+        "De ce contează locul în care este realizată lucrarea?",
+        "Lucrarea se leagă de arhitectură și de lumină.",
+        "Toate cele trei tehnici folosesc tencuială proaspătă.",
+        "Materialul contează doar pentru lucrările mutate dintr-o clădire.",
+        "Arhitectura și lumina influențează numai vitraliul."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Fresca și vitraliul folosesc amândouă bucățele de sticlă reunite.",
+        "answer": false
+      },
+      {
+        "text": "O pictură pe tavan poate fi o pictură murală.",
+        "answer": true
+      },
+      {
+        "text": "La distanță, observarea mozaicului pune accent pe imaginea de ansamblu.",
+        "answer": true
+      },
+      {
+        "text": "Tencuiala umedă este un reper al frescei.",
+        "answer": true
+      },
+      {
+        "text": "Orice pictură murală este numită în text vitraliu.",
+        "answer": false
+      },
+      {
+        "text": "Fragmentele de ceramică sunt menționate ca material al vitraliului.",
+        "answer": false
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "O imagine, mai multe exemplare",
+    "theme": "Pictură și tehnici",
+    "text": "Gravura permite imprimarea unei imagini pregătite pe o placă. Dacă placa este din lemn, vorbim despre xilogravură; linogravura folosește linoleum. Litografia utilizează în mod tradițional o piatră pregătită special. Matrița este forma de pe care se obțin exemplare, iar tirajul reprezintă numărul exemplarelor realizate. Colajul funcționează altfel: reunește fragmente de hârtie sau alte materiale într-o lucrare. Multiplicarea și reunirea fragmentelor sunt, așadar, procedee diferite de creație.",
+    "gap": "Gravura în lemn se numește {0}, iar numărul exemplarelor realizate se numește {1}.",
+    "answers": [
+      "xilogravură",
+      "tiraj"
+    ],
+    "questions": [
+      [
+        "Cuvântul „așadar” introduce",
+        "o concluzie despre procedee",
+        "o asemănare care anulează diferențele dintre tehnici",
+        "o explicație a originii cuvântului litografie",
+        "o enumerare de materiale cu aceeași întrebuințare"
+      ],
+      [
+        "Ce material folosește linogravura?",
+        "Linoleum.",
+        "Lemn, la fel ca xilogravura.",
+        "Piatră, la fel ca litografia tradițională.",
+        "Fragmente de hârtie reunite într-o lucrare."
+      ],
+      [
+        "De ce colajul este diferit de imprimare?",
+        "Reunește fragmente în loc să multiplice o imagine de pe o placă.",
+        "Colajul multiplică fragmentele cu aceeași matriță.",
+        "Gravura reunește fragmente, iar colajul imprimă de pe placă.",
+        "Diferența este doar numărul exemplarelor obținute."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Matrița și tirajul denumesc numărul imaginilor imprimate.",
+        "answer": false
+      },
+      {
+        "text": "Linogravura și xilogravura se deosebesc prin materialul plăcii.",
+        "answer": true
+      },
+      {
+        "text": "Litografia tradițională este asociată cu piatra.",
+        "answer": true
+      },
+      {
+        "text": "Un colaj poate reuni fragmente fără să imprime aceeași imagine de pe o placă.",
+        "answer": true
+      },
+      {
+        "text": "Tirajul arată câte fragmente are un colaj.",
+        "answer": false
+      },
+      {
+        "text": "Textul prezintă imprimarea și reunirea fragmentelor ca procedee echivalente.",
+        "answer": false
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Primele urme ale artei",
+    "theme": "Istoria artei",
+    "text": "Arta preistorică include picturi rupestre, realizate pe stânci sau în peșteri. În Egiptul antic, piramidele, templele și imaginile faraonilor erau legate de putere și credințe. Arta greacă a urmărit armonia și proporțiile corpului, iar romanii au dezvoltat construcții precum amfiteatrele și apeductele. Aceste exemple nu spun întreaga istorie a lumii, dar arată că arta are funcții diferite: poate păstra credințe, reprezenta omul sau organiza spațiul unei comunități.",
+    "gap": "Picturile de pe stânci sunt numite {0}, iar construcțiile romane care transportau apa sunt {1}.",
+    "answers": [
+      "rupestre",
+      "apeductele"
+    ],
+    "questions": [
+      [
+        "Afirmația „nu spun întreaga istorie a lumii” arată că exemplele sunt",
+        "o selecție de repere",
+        "o succesiune completă a tuturor tradițiilor artistice",
+        "o dovadă că arta îndeplinește aceeași funcție în orice epocă",
+        "o listă de opere care au avut toate rol religios"
+      ],
+      [
+        "Ce a urmărit arta greacă, potrivit textului?",
+        "Armonia și proporțiile corpului.",
+        "Puterea faraonilor și credințele lor.",
+        "Dezvoltarea amfiteatrelor și apeductelor.",
+        "Organizarea locurilor în care se pictau pe stânci."
+      ],
+      [
+        "De ce nu are arta o singură funcție?",
+        "Poate servi credințelor, reprezentării omului și comunității.",
+        "Funcția este stabilită doar de vechimea unei lucrări.",
+        "Arta greacă și cea romană au avut numai funcție religioasă.",
+        "Reprezentarea omului exclude orice rol pentru comunitate."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Textul leagă imaginile faraonilor de putere și credințe.",
+        "answer": true
+      },
+      {
+        "text": "Interesul pentru proporțiile corpului este atribuit romanilor, în locul grecilor.",
+        "answer": false
+      },
+      {
+        "text": "Exemplele prezentate sunt declarate o istorie completă a artei mondiale.",
+        "answer": false
+      },
+      {
+        "text": "Organizarea spațiului comunității este una dintre funcțiile amintite.",
+        "answer": true
+      },
+      {
+        "text": "Picturile rupestre sunt asociate și cu peșterile.",
+        "answer": true
+      },
+      {
+        "text": "Amfiteatrele și piramidele sunt date ca exemple ale aceleiași civilizații.",
+        "answer": false
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Bizantin, romanic, gotic",
+    "theme": "Istoria artei",
+    "text": "În Evul Mediu european, arta religioasă a ocupat un loc important. Arta bizantină este cunoscută pentru icoane și mozaicuri, care exprimă sensuri spirituale. Clădirile romanice au adesea ziduri masive și arce rotunjite. Goticul este asociat cu înălțimea catedralelor, arcele ascuțite și vitraliile ample. Aceste repere ajută privitorul să observe diferențe, fără să transforme fiecare clădire într-o etichetă rigidă: monumentele pot păstra urmele mai multor etape de construcție.",
+    "gap": "Arta bizantină este cunoscută pentru icoane și {0}, iar goticul are adesea arce {1}.",
+    "answers": [
+      "mozaicuri",
+      "ascuțite"
+    ],
+    "questions": [
+      [
+        "„O etichetă rigidă” sugerează aici",
+        "o clasificare care ignoră particularitățile",
+        "o clasificare bazată numai pe forma arcelor, suficientă pentru orice monument",
+        "o inscripție care arată data terminării unei clădiri",
+        "o descriere care include etapele diferite ale unui monument"
+      ],
+      [
+        "Cum sunt descrise frecvent zidurile romanice?",
+        "Masive.",
+        "Înalte și însoțite în mod necesar de vitralii ample.",
+        "Ușoare, pentru a susține numai mozaicuri.",
+        "Alcătuite din arce ascuțite care înlocuiesc zidul."
+      ],
+      [
+        "De ce trebuie observată atent fiecare clădire?",
+        "Poate avea urme din mai multe etape de construcție.",
+        "Un detaliu gotic stabilește stilul tuturor părților unei clădiri.",
+        "Etapele târzii înlătură orice urmă a celor mai vechi.",
+        "Mozaicurile sunt suficiente pentru datarea fiecărei construcții."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Reperele de stil sunt utile, dar nu epuizează istoria unei clădiri.",
+        "answer": true
+      },
+      {
+        "text": "Arcele rotunjite și cele ascuțite sunt atribuite în text aceluiași stil.",
+        "answer": false
+      },
+      {
+        "text": "Vitraliile ample sunt un indiciu asociat goticului.",
+        "answer": true
+      },
+      {
+        "text": "Icoanele și mozaicurile bizantine sunt puse în legătură cu sensuri spirituale.",
+        "answer": true
+      },
+      {
+        "text": "Un monument cu mai multe etape trebuie încadrat doar după ultimul detaliu observat.",
+        "answer": false
+      },
+      {
+        "text": "Zidurile masive sunt prezentate ca reper caracteristic goticului.",
+        "answer": false
+      }
+    ],
+    "minutes": 1,
+    "multiplier": 1,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Renaștere și baroc",
+    "theme": "Istoria artei",
+    "text": "Renașterea a readus în atenție cultura Antichității și a dezvoltat interesul pentru om și natură. Artiștii au studiat proporțiile și perspectiva; Leonardo da Vinci și Michelangelo sunt două nume importante. Barocul pune adesea accent pe mișcare, dramatism și contraste de lumină. Dacă o lucrare renascentistă poate sugera echilibru, una barocă poate impresiona prin energie. Comparația oferă repere de observare, nu o regulă fără excepții pentru toate operele.\n\nSă ne imaginăm două săli: într-una, personajele par așezate într-o ordine calmă; în cealaltă, gesturile și lumina creează o scenă intensă. Această observație ne poate orienta, dar trebuie verificată prin detalii. Un contrast puternic nu transformă singur orice pictură într-o operă barocă. Nici prezența perspectivei nu este o dovadă suficientă pentru atribuirea unei lucrări Renașterii. Pentru o părere întemeiată, punem împreună mai multe indicii și evităm să confundăm un exemplu cu o definiție completă.",
+    "gap": "Artiștii Renașterii au studiat proporțiile și {0}; barocul folosește adesea contraste de {1}.",
+    "answers": [
+      "perspectiva",
+      "lumină"
+    ],
+    "questions": [
+      [
+        "Comparația dintre cele două săli are rolul de a",
+        "face vizibile două moduri de organizare a unei imagini",
+        "stabili stilul oricărei lucrări după încăperea în care se află",
+        "dovedi că perspectiva apare numai în opere calme",
+        "arăta că o scenă intensă are întotdeauna valoare mai mare"
+      ],
+      [
+        "Care observație este compatibilă cu textul?",
+        "Perspectiva este un indiciu de cercetat alături de alte detalii.",
+        "Un contrast puternic dovedește singur că lucrarea este barocă.",
+        "Renașterea evită studiul proporțiilor în favoarea dramatismului.",
+        "Barocul este definit prin lipsa contrastelor de lumină."
+      ],
+      [
+        "De ce nu ajunge un singur indiciu pentru atribuirea unui stil?",
+        "Un exemplu nu echivalează cu o definiție completă a stilului.",
+        "Orice indiciu vizual este mai puțin util decât titlul.",
+        "Aceleași detalii au obligatoriu același rol în toate operele.",
+        "Comparația este valabilă doar pentru lucrări fără perspectivă."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Ordinea calmă și scena intensă sunt exemple orientative, nu criterii suficiente pentru orice atribuire.",
+        "answer": true
+      },
+      {
+        "text": "Perspectiva, luată singură, este considerată o dovadă suficientă a apartenenței la Renaștere.",
+        "answer": false
+      },
+      {
+        "text": "Textul leagă barocul de dramatism și contraste de lumină.",
+        "answer": true
+      },
+      {
+        "text": "Pentru o părere întemeiată trebuie corelate mai multe indicii.",
+        "answer": true
+      },
+      {
+        "text": "Studiul proporțiilor este atribuit exclusiv barocului.",
+        "answer": false
+      },
+      {
+        "text": "Comparația sălilor dovedește că toate operele renascentiste sunt calme.",
+        "answer": false
+      }
+    ],
+    "minutes": 2,
+    "multiplier": 2,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "De la emoție la lumină",
+    "theme": "Istoria artei",
+    "text": "Romantismul acordă importanță emoției, imaginației și naturii. Realismul îndreaptă atenția spre viața obișnuită și oamenii reali. Impresionismul urmărește lumina și impresia unui moment; Claude Monet este un reprezentant cunoscut. În postimpresionism, artiști precum Vincent van Gogh caută alte posibilități expresive ale culorii și formei. Denumirile ne ajută să urmărim schimbările de interes ale artiștilor. Ele nu sunt trepte ale unui clasament în care un curent îl face inutil pe cel anterior.\n\nImaginează-ți același râu pictat de mai mulți artiști. Unul poate accentua neliniștea pe care o provoacă furtuna, altul poate observa oamenii care muncesc pe mal, iar altul reflexele luminii la o anumită oră. Locul este același, dar interesul și mijloacele diferă. A compara lucrările înseamnă să observăm aceste alegeri, nu să hotărâm automat care este mai nouă sau mai scumpă. Un curent deschide o posibilitate de exprimare, fără să anuleze valoarea celorlalte.",
+    "gap": "Viața obișnuită este importantă pentru {0}, iar Monet este asociat cu {1}.",
+    "answers": [
+      "realism",
+      "impresionismul"
+    ],
+    "questions": [
+      [
+        "Exemplul râului pictat de artiști diferiți evidențiază",
+        "diferența dintre interesele și alegerile creatorilor",
+        "schimbarea locului în funcție de vechimea tabloului",
+        "superioritatea imaginilor cu efecte luminoase",
+        "imposibilitatea de a compara lucrări cu același subiect"
+      ],
+      [
+        "Ce asociere corespunde textului?",
+        "Impresionismul — lumina unui moment.",
+        "Realismul — eliminarea oamenilor obișnuiți.",
+        "Romantismul — observarea exclusivă a muncii de pe mal.",
+        "Postimpresionismul — renunțarea la posibilitățile culorii."
+      ],
+      [
+        "De ce nu sunt curentele trepte ale unui clasament?",
+        "O nouă posibilitate de exprimare nu anulează valoarea celor anterioare.",
+        "Toate curentele urmăresc în egală măsură același efect.",
+        "Subiectul comun face imposibilă orice deosebire între artiști.",
+        "Ordinea cronologică indică automat valoarea fiecărei opere."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Râul rămâne același subiect, dar interesul artiștilor poate diferi.",
+        "answer": true
+      },
+      {
+        "text": "Observarea reflexelor luminii este asociată în exemplu cu munca oamenilor de pe mal.",
+        "answer": false
+      },
+      {
+        "text": "Textul recomandă compararea alegerilor înaintea unui verdict automat.",
+        "answer": true
+      },
+      {
+        "text": "Prețul lucrărilor stabilește diferența dintre curente în exemplul dat.",
+        "answer": false
+      },
+      {
+        "text": "Van Gogh este folosit ca exemplu pentru posibilități expresive ale culorii și formei.",
+        "answer": true
+      },
+      {
+        "text": "Apariția unui curent nou face inutile expresiile anterioare.",
+        "answer": false
+      }
+    ],
+    "minutes": 2,
+    "multiplier": 2,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Arta caută alte drumuri",
+    "theme": "Istoria artei",
+    "text": "În cubism, formele sunt descompuse și reorganizate în planuri geometrice; Pablo Picasso este un nume important. Suprarealismul valorifică visul și asocierile neobișnuite, iar Salvador Dalí este un reprezentant cunoscut. Expresionismul accentuează trăirea interioară. Simbolismul sugerează idei prin simboluri, iar minimalismul reduce numărul elementelor. Arta conceptuală pune în prim-plan ideea lucrării. Aceste direcții arată că artistul poate căuta mai mult decât asemănarea cu realitatea: poate explora emoții, întrebări și posibilități ale imaginației.\n\nGândește-te la o imagine în care o formă recognoscibilă este fragmentată geometric și la una în care obiecte obișnuite se întâlnesc într-o situație imposibilă. Prima poate aminti de cubism, a doua de suprarealism. În ambele cazuri, privitorul trebuie să observe cum este construită imaginea. Simplitatea nu dovedește singură minimalismul, după cum o culoare intensă nu este suficientă pentru identificarea expresionismului. Denumirile oferă orientare; argumentele se sprijină pe relațiile dintre forme, idei și emoții.",
+    "gap": "Picasso este asociat cu {0}, iar Dalí cu {1}.",
+    "answers": [
+      "cubismul",
+      "suprarealismul"
+    ],
+    "questions": [
+      [
+        "Căutarea unor „alte drumuri” se referă la",
+        "explorarea unor mijloace diferite de exprimare a ideilor și emoțiilor",
+        "înlocuirea observației imaginii cu memorarea denumirilor",
+        "renunțarea tuturor artiștilor la forme recognoscibile",
+        "reducerea tuturor curentelor moderne la simplificare"
+      ],
+      [
+        "Ce ar putea aminti de suprarealism, conform textului?",
+        "Întâlnirea obiectelor obișnuite într-o situație imposibilă.",
+        "Fragmentarea geometrică a unei forme recognoscibile.",
+        "Reducerea numărului de elemente fără alte indicii.",
+        "Folosirea unei culori intense fără a urmări trăirea."
+      ],
+      [
+        "Ce atitudine recomandă textul când identificăm un curent?",
+        "Să corelăm mai multe indicii despre construcția și sensul imaginii.",
+        "Să atribuim minimalismului orice lucrare cu forme simple.",
+        "Să considerăm expresionistă orice lucrare cu o culoare intensă.",
+        "Să acordăm prioritate numelui artistului în locul detaliilor vizibile."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "O formă recognoscibilă fragmentată geometric poate aminti de cubism.",
+        "answer": true
+      },
+      {
+        "text": "O situație imposibilă cu obiecte obișnuite este asociată în exemplu cu minimalismul.",
+        "answer": false
+      },
+      {
+        "text": "O culoare intensă este suficientă pentru identificarea expresionismului.",
+        "answer": false
+      },
+      {
+        "text": "Ideea lucrării primește prioritate în arta conceptuală.",
+        "answer": true
+      },
+      {
+        "text": "Denumirile curentelor înlocuiesc argumentele bazate pe imagine.",
+        "answer": false
+      },
+      {
+        "text": "Textul pune în legătură observarea formelor, ideilor și emoțiilor.",
+        "answer": true
+      }
+    ],
+    "minutes": 2,
+    "multiplier": 2,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Casa tradițională și stilul neoromânesc",
+    "theme": "Arhitectură",
+    "text": "Casa tradițională se adaptează materialelor locale, climei și vieții familiei. Pridvorul este un spațiu acoperit, deschis spre exterior, care leagă interiorul de curte. Stilul neoromânesc se inspiră din arhitectura tradițională și istorică românească, folosind pridvoare, arcade, coloane și ornamente reinterpretate. Ion Mincu este un reprezentant important. O asemenea clădire nu copiază neapărat o casă veche: poate adapta forme cunoscute la funcții noi, păstrând legătura cu tradiția.\n\nUn pridvor oferă adăpost și, în același timp, un loc de întâlnire între casă și exterior. Într-o clădire nouă, o arcadă inspirată din trecut poate avea altă scară și alte materiale decât modelul vechi. Prin această schimbare, arhitectul nu abandonează obligatoriu tradiția, ci o pune în legătură cu nevoile prezentului. Ca să recunoaștem o asemenea legătură, observăm împreună forma, funcția și decorația. Un singur ornament nu explică întreaga clădire și nici toate alegerile autorului.",
+    "gap": "Spațiul acoperit și deschis spre curte este {0}; un reprezentant al stilului neoromânesc este Ion {1}.",
+    "answers": [
+      "pridvorul",
+      "Mincu"
+    ],
+    "questions": [
+      [
+        "„Tradiția” este prezentată ca",
+        "o sursă de forme care pot fi adaptate nevoilor prezentului",
+        "un set de elemente care își păstrează obligatoriu materialul și scara",
+        "o decorație suficientă pentru a explica orice clădire",
+        "un model care exclude funcțiile noi"
+      ],
+      [
+        "Ce rol are pridvorul în explicația textului?",
+        "Oferă adăpost și face legătura dintre casă și exterior.",
+        "Reprezintă numai o decorație fără legătură cu viața familiei.",
+        "Înlocuiește curtea printr-un spațiu interior închis.",
+        "Stabilește singur apartenența oricărei clădiri la stilul neoromânesc."
+      ],
+      [
+        "De ce schimbarea materialelor nu înseamnă automat abandonarea tradiției?",
+        "O formă inspirată din trecut poate răspunde unor nevoi actuale.",
+        "Tradiția depinde exclusiv de numele autorului.",
+        "Materialele nu au niciun rol în arhitectură.",
+        "Orice arcadă reproduce exact funcția modelului vechi."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "În text, pridvorul are atât rol de adăpost, cât și rol de legătură cu exteriorul.",
+        "answer": true
+      },
+      {
+        "text": "Reinterpretarea presupune păstrarea obligatorie a scării și materialelor vechi.",
+        "answer": false
+      },
+      {
+        "text": "Forma, funcția și decorația trebuie observate împreună.",
+        "answer": true
+      },
+      {
+        "text": "Prezența unui singur ornament explică toate alegerile arhitectului.",
+        "answer": false
+      },
+      {
+        "text": "Neoromânescul se inspiră doar din nevoile prezentului, fără surse istorice.",
+        "answer": false
+      },
+      {
+        "text": "Adaptarea formelor poate menține o legătură cu tradiția.",
+        "answer": true
+      }
+    ],
+    "minutes": 2,
+    "multiplier": 2,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Clădiri pentru viața modernă",
+    "theme": "Arhitectură",
+    "text": "Modernismul arhitectural caută forme simple și soluții potrivite funcției clădirii. Betonul armat, metalul și sticla permit posibilități constructive noi. Postmodernismul reintroduce uneori referințe istorice și combinații surprinzătoare. Fațada este partea exterioară a unei clădiri, iar planul arată organizarea spațiilor privite de sus. Pentru a înțelege o construcție, nu ajunge să o numim frumoasă: putem observa cum este folosită, din ce este făcută și cum se potrivește cu vecinătatea.\n\nDoi vizitatori privesc aceeași fațadă. Unul remarcă suprafețele simple, celălalt o decorație care amintește de o epocă veche. Niciun detaliu nu trebuie ignorat, dar nici transformat singur într-un verdict despre întreaga construcție. Planul îi poate ajuta să înțeleagă circulația prin încăperi, în timp ce observarea exteriorului arată relația cu strada. Așadar, funcția, forma și contextul trebuie puse în legătură. O construcție se înțelege mai bine când întrebările despre ea depășesc prima impresie.",
+    "gap": "Partea exterioară a clădirii este {0}, iar organizarea spațiilor de sus apare în {1}.",
+    "answers": [
+      "fațada",
+      "plan"
+    ],
+    "questions": [
+      [
+        "Exemplul celor doi vizitatori arată că",
+        "prima impresie trebuie completată prin corelarea observațiilor",
+        "aceeași fațadă aparține obligatoriu la două stiluri opuse",
+        "decorația oferă singură un verdict mai sigur decât planul",
+        "suprafețele simple dovedesc lipsa oricărei referințe istorice"
+      ],
+      [
+        "Ce informație poate oferi planul clădirii?",
+        "Felul în care se circulă prin încăperi.",
+        "Aspectul tuturor ornamentelor de pe fațadă.",
+        "Prima impresie a vizitatorilor despre stradă.",
+        "Materialul din care este realizată fiecare decorație."
+      ],
+      [
+        "De ce textul recomandă să depășim prima impresie?",
+        "Înțelegerea cere legarea funcției, formei și contextului.",
+        "Impresia inițială este greșită în orice situație.",
+        "Funcția unei clădiri poate fi dedusă numai dintr-un ornament.",
+        "Observarea străzii poate înlocui analiza interiorului."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Planul și fațada oferă același tip de informație despre clădire.",
+        "answer": false
+      },
+      {
+        "text": "Materialele amintite permit posibilități constructive noi.",
+        "answer": true
+      },
+      {
+        "text": "Observarea exteriorului poate arăta relația construcției cu strada.",
+        "answer": true
+      },
+      {
+        "text": "O decorație istorică trebuie să anuleze observarea suprafețelor simple.",
+        "answer": false
+      },
+      {
+        "text": "Funcția, forma și contextul se completează în analiză.",
+        "answer": true
+      },
+      {
+        "text": "Textul cere un verdict despre întreg pornind de la un singur detaliu.",
+        "answer": false
+      }
+    ],
+    "minutes": 2,
+    "multiplier": 2,
+    "revision": 2,
+    "questionSources": [
+      "text",
+      "text",
+      "text"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Locuri diferite, respect comun",
+    "theme": "Corelare de texte",
+    "text": "Înainte de vizita prin oraș, Mara își pregătise o listă cu trei clădiri: o biserică, o sinagogă și o moschee. Voia să le fotografieze doar fațadele, ca să compare ferestrele. La prima oprire, ghidul le-a cerut să afle și regulile de vizitare. Mara s-a mirat: nu veniseră să privească arhitectura? Colegul ei i-a arătat oamenii care intrau în liniște. „Pentru noi e o vizită, pentru alții e un loc al comunității”, a spus el. Fata a închis pentru moment camera telefonului și a ascultat explicațiile. În caiet, lângă desenul unei ferestre, a adăugat o întrebare nouă: cui îi este destinat spațiul pe care îl privesc?",
+    "gap": "Mara a închis pentru moment camera {0} și a scris o întrebare în {1}.",
+    "answers": [
+      "telefonului",
+      "caiet"
+    ],
+    "questions": [
+      [
+        "Schimbarea planului Marei sugerează că ea",
+        "începe să observe și funcția socială a clădirii, nu doar exteriorul",
+        "renunță să mai privească formele clădirii deoarece nu contează",
+        "consideră regulile o piedică fără legătură cu vizita",
+        "descoperă că toate lăcașurile au aceeași funcție pentru orice comunitate"
+      ],
+      [
+        "Ce precizare face textul 2 despre fotografie?",
+        "Fațada fotografiată nu explică singură toate întrebuințările clădirii.",
+        "Fotografia fațadei nu poate oferi informații arhitecturale.",
+        "Fotografia explică regulile de vizitare fără alte informații.",
+        "Exteriorul este suficient pentru înțelegerea tradițiilor comunității."
+      ],
+      [
+        "Cum se corelează replica băiatului cu explicațiile textului 2?",
+        "Ambele invită la înțelegerea clădirii ca spațiu folosit de o comunitate.",
+        "Ambele recomandă înlocuirea observației vizuale prin respectarea tăcerii.",
+        "Replica se referă la exterior, iar explicația exclude orice funcție socială.",
+        "Replica susține că fotografia poate explica singură viața comunității."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Ghidul le-a cerut să înlocuiască fotografiile cu desene, fără să discute regulile.",
+        "answer": false
+      },
+      {
+        "text": "Mara intenționase să compare ferestrele folosind fotografii ale fațadelor.",
+        "answer": true
+      },
+      {
+        "text": "Întrebarea din caiet arată că interesul Marei se extinde spre utilizatorii spațiului.",
+        "answer": true
+      },
+      {
+        "text": "Textul 2 identifică minaretul drept un turn asociat sinagogii.",
+        "answer": false
+      },
+      {
+        "text": "Formele, materialele și funcțiile sunt prezentate ca aspecte ale cercetării arhitecturii.",
+        "answer": true
+      },
+      {
+        "text": "Diferențele dintre lăcașuri fac imposibilă aprecierea lor culturală.",
+        "answer": false
+      }
+    ],
+    "text2": "Biserica este un lăcaș de cult creștin, sinagoga unul evreiesc, iar moscheea unul musulman. Minaretul este un turn asociat moscheii. Organizarea spațiului și decorația răspund tradițiilor comunității care folosește clădirea. Arhitectura poate fi cercetată prin forme, materiale și funcții, dar vizitarea unui loc folosit de oameni presupune și respectarea regulilor sale. O fotografie a fațadei oferă informații despre exterior, fără să explice singură toate întrebuințările construcției. Diferențele dintre lăcașuri nu împiedică aprecierea lor culturală. Dimpotrivă, ele ajută la înțelegerea istoriei mai multor comunități din același oraș. A observa atent înseamnă a pune întrebări atât despre ceea ce vedem, cât și despre viața legată de acel loc.",
+    "minutes": 3,
+    "multiplier": 3,
+    "revision": 2,
+    "questionSources": [
+      "textul 1",
+      "textul 2",
+      "ambele texte"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Sculptura și memoria",
+    "theme": "Corelare de texte",
+    "text": "În piață, Radu a fotografiat un monument și a spus că lucrarea este mare, deci importantă. Ilinca s-a oprit lângă soclu să citească inscripția. A aflat numele persoanei reprezentate și prilejul ridicării statuii. Radu a vrut să plece: avea deja imaginea întreagă în telefon. Fata i-a propus să privească și din lateral. De acolo, gestul personajului părea altfel, iar clădirea din spate schimba fundalul. Băiatul a făcut încă o fotografie, de data aceasta fără să spună că știe totul despre lucrare. Pe drum, a întrebat cine hotărâse amplasarea monumentului în piață. Ilinca i-a arătat că răspunsul nu se găsea doar în înălțimea statuii.",
+    "gap": "Ilinca a citit {0} de lângă soclu, iar Radu a făcut încă o {1}.",
+    "answers": [
+      "inscripția",
+      "fotografie"
+    ],
+    "questions": [
+      [
+        "Întrebarea finală a lui Radu arată că el",
+        "începe să caute explicații dincolo de dimensiunea monumentului",
+        "consideră inscripția suficientă pentru orice interpretare",
+        "renunță la observarea amplasării lucrării",
+        "acceptă că o statuie mai mare este automat mai valoroasă"
+      ],
+      [
+        "Ce distincție apare în textul 2?",
+        "Ronde-bosse se privește din jur, iar relieful rămâne legat de un plan.",
+        "Bustul reprezintă o persoană călare, iar statuia ecvestră un chip.",
+        "Soclul stabilește valoarea, iar inscripția stabilește mărimea.",
+        "Contextul istoric înlocuiește observarea formei și materialului."
+      ],
+      [
+        "Care idee din textul 2 este ilustrată de a doua fotografie?",
+        "Amplasarea și poziția privitorului pot influența perceperea sculpturii.",
+        "Inscripția elimină nevoia de a observa sculptura din alte unghiuri.",
+        "Mărimea este singurul criteriu comun tuturor monumentelor.",
+        "Orice fotografie laterală stabilește cine a comandat monumentul."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Inițial, Radu leagă importanța lucrării de mărimea ei.",
+        "answer": true
+      },
+      {
+        "text": "Ilinca află prilejul ridicării statuii din a doua fotografie a băiatului.",
+        "answer": false
+      },
+      {
+        "text": "Schimbarea unghiului de privire modifică gestul perceput și fundalul.",
+        "answer": true
+      },
+      {
+        "text": "Textul 2 susține că citirea inscripției încheie analiza monumentului.",
+        "answer": false
+      },
+      {
+        "text": "Contextul politic poate influența mesajul unei lucrări comemorative.",
+        "answer": true
+      },
+      {
+        "text": "În descrierea textului 2, bustul este o reprezentare a corpului întreg.",
+        "answer": false
+      }
+    ],
+    "text2": "Un monument păstrează memoria unei persoane, a unui eveniment sau a unei idei. Mărimea sa nu garantează singură valoarea artistică. Soclul susține sculptura și poate influența felul în care este văzută. O statuie ecvestră reprezintă o persoană călare; un bust, capul și partea superioară a corpului. Sculptura în ronde-bosse se poate privi din jur, spre deosebire de relieful legat de un plan. Pentru interpretare contează forma, materialul, amplasarea și contextul istoric. Puterea care comandă un monument poate influența mesajul lui. Inscripția oferă repere, dar analiza nu se încheie prin citirea ei: relația dintre lucrare, spațiu și privitor cere observație și întrebări.",
+    "minutes": 3,
+    "multiplier": 3,
+    "revision": 2,
+    "questionSources": [
+      "textul 1",
+      "textul 2",
+      "ambele texte"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Brâncuși: ce continuă dincolo de formă?",
+    "theme": "Corelare de texte",
+    "text": "În fața Coloanei de la Târgu Jiu, Daria a început să numere formele care se repetau. Colegul ei, Luca, a spus că vede doar o înșiruire simplă. Daria i-a cerut să urmărească linia coloanei spre cer. Privind astfel, băiatul a avut impresia că ritmul ar putea continua dincolo de capătul lucrării. În caiet, a desenat trei module și apoi o săgeată. Nu voia să copieze toate detaliile, ci să păstreze impresia de continuare. La plecare, a recunoscut că simplitatea îl făcuse să privească prea repede. „Puține forme nu înseamnă puține lucruri de spus”, a notat lângă desen, înainte să meargă spre celelalte lucrări ale ansamblului.",
+    "gap": "Luca a desenat trei {0} și o {1}.",
+    "answers": [
+      "module",
+      "săgeată"
+    ],
+    "questions": [
+      [
+        "Afirmația „Puține forme nu înseamnă puține lucruri de spus” exprimă",
+        "înțelegerea faptului că simplitatea poate concentra sensuri",
+        "convingerea că numărarea este suficientă pentru interpretare",
+        "ideea că lucrarea este neterminată pentru că are forme simple",
+        "dorința de a înlocui observația printr-o explicație fără dovezi"
+      ],
+      [
+        "Ce precizează textul 2 despre continuare?",
+        "Este un sens sugerat de organizarea formei, nu o prelungire fizică fără limită.",
+        "Este produsă numai de numărul elementelor, indiferent de organizare.",
+        "Este un efect care face inutile direcția și repetiția.",
+        "Dovedește că obiectul continuă fizic dincolo de limita observată."
+      ],
+      [
+        "Ce legătură există între desenul lui Luca și explicația textului 2?",
+        "Desenul selectează repetiția și direcția pentru a exprima o impresie.",
+        "Desenul redă toate detaliile, așa cum textul cere oricărei reprezentări.",
+        "Săgeata înlocuiește modulele pentru că ritmul nu depinde de ele.",
+        "Cele trei module dovedesc numărul total al elementelor sculpturii."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Daria îi propune să ignore organizarea formelor și să numere numai modulele.",
+        "answer": false
+      },
+      {
+        "text": "Luca își schimbă părerea după ce urmărește coloana spre cer.",
+        "answer": true
+      },
+      {
+        "text": "Săgeata din desen urmărește impresia de continuare, nu copierea tuturor detaliilor.",
+        "answer": true
+      },
+      {
+        "text": "Textul 2 leagă expresia ideii de raporturi, direcție și repetiție.",
+        "answer": true
+      },
+      {
+        "text": "Coloana fără sfârșit și Coloana Infinitului sunt prezentate ca lucrări diferite.",
+        "answer": false
+      },
+      {
+        "text": "În textul 2, numărarea elementelor este considerată inutilă pentru orice observație.",
+        "answer": false
+      }
+    ],
+    "text2": "Constantin Brâncuși este un sculptor român important pentru arta modernă. Ansamblul de la Târgu Jiu cuprinde Masa Tăcerii, Poarta Sărutului și Coloana fără sfârșit, cunoscută și drept Coloana Infinitului. Repetarea modulelor creează ritm, iar organizarea lor pe verticală poate sugera continuarea. Aceasta este o interpretare a formei, nu constatarea că obiectul ar depăși fizic limita sa. Simplificarea poate concentra expresia unei idei, fără descrierea fiecărui detaliu din realitate. Privitorul construiește o explicație mai convingătoare când o sprijină pe ceea ce observă: raporturi între părți, direcție, repetiție și relația cu spațiul. A număra elementele este o observație utilă, dar nu epuizează sensul unei opere.",
+    "minutes": 3,
+    "multiplier": 3,
+    "revision": 2,
+    "questionSources": [
+      "textul 1",
+      "textul 2",
+      "ambele texte"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Patrimoniul: obiectul și povestea lui",
+    "theme": "Corelare de texte",
+    "text": "Într-o fotografie de familie, Ana a observat un vas vechi pe o poliță. Bunicul l-a scos din dulap și i-a arătat o mică fisură. Fata a propus să îl vopsească pentru a-l face să pară nou. Bunicul a rugat-o să mai aștepte: nu știau încă materialul, vechimea sau proveniența lui. Apoi a căutat o însemnare păstrată lângă fotografie. Ana a fost surprinsă că o hârtie putea conta alături de obiect. În locul pensulei, a luat caietul și a notat ce aflaseră. Vasul nu devenise mai strălucitor, dar începuse să îi spună mai mult. Fisura rămânea vizibilă, iar fata nu o mai privea ca pe singurul lucru important.",
+    "gap": "Ana a înlocuit {0} cu {1}, pentru a nota informațiile aflate.",
+    "answers": [
+      "pensula",
+      "caietul"
+    ],
+    "questions": [
+      [
+        "Formularea „începuse să îi spună mai mult” înseamnă că vasul",
+        "căpăta sens prin informațiile descoperite despre el",
+        "își schimbase aspectul după aplicarea vopselei",
+        "devenise valoros exclusiv prin fisura observată",
+        "își pierduse legătura cu fotografia de familie"
+      ],
+      [
+        "Ce diferență stabilește textul 2?",
+        "Aspectul de obiect nou nu garantează păstrarea autenticității.",
+        "Restaurarea se reduce la ascunderea tuturor urmelor de vârstă.",
+        "Conservarea înseamnă numai cercetarea provenienței.",
+        "Vechimea singură face inutilă cercetarea unui obiect."
+      ],
+      [
+        "Cum se leagă decizia Anei de recomandarea textului 2?",
+        "Ea amână schimbarea aspectului și adună mai întâi informații.",
+        "Ea repară fisura înainte de a cerceta materialul.",
+        "Ea renunță la notițe pentru a păstra doar fotografia.",
+        "Ea dovedește că orice obiect de familie este vestigiu arheologic."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Ana consideră inițial că vopsirea ar putea îmbunătăți aspectul vasului.",
+        "answer": true
+      },
+      {
+        "text": "Bunicul cunoaște de la început toate datele despre proveniența obiectului.",
+        "answer": false
+      },
+      {
+        "text": "În final, fata acordă importanță și informațiilor, nu doar fisurii.",
+        "answer": true
+      },
+      {
+        "text": "Textul 2 echivalează restaurarea cu obținerea aspectului de obiect nou.",
+        "answer": false
+      },
+      {
+        "text": "Mutarea neglijentă poate rupe legături utile în cercetarea unui vestigiu.",
+        "answer": true
+      },
+      {
+        "text": "Păstrarea autenticității cere eliminarea tuturor urmelor de vechime.",
+        "answer": false
+      }
+    ],
+    "text2": "Patrimoniul cultural cuprinde bunuri și tradiții valoroase pentru o comunitate. Pentru un obiect vechi, proveniența și informațiile păstrate despre el pot ajuta la înțelegerea valorii sale. Arheologia studiază trecutul prin vestigii precum vase, monede, unelte și ruine. Contextul descoperirii oferă legături pe care mutarea neglijentă le poate pierde. Conservarea urmărește păstrarea bunurilor, iar restaurarea presupune intervenții specializate asupra degradărilor. A face un obiect să pară nou nu este același lucru cu a-i păstra autenticitatea. O intervenție nepotrivită poate șterge urme importante. Cercetarea și grija trebuie să preceadă schimbările făcute doar pentru aspect; un bun cultural poate fi valoros și atunci când vârsta sa rămâne vizibilă.",
+    "minutes": 3,
+    "multiplier": 3,
+    "revision": 2,
+    "questionSources": [
+      "textul 1",
+      "textul 2",
+      "ambele texte"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "De la icoana pe sticlă la instalație",
+    "theme": "Corelare de texte",
+    "text": "La expoziție, Teo s-a oprit în fața unei icoane pe sticlă. Formele simplificate i s-au părut ușor de recunoscut, dar nu înțelegea de ce pictura era protejată de sticlă. După ce a citit explicația tehnicii, a observat că privea imaginea prin suportul ei. În sala următoare, o instalație reunea obiecte, lumină și sunet. „Aici nu mai este nimic de privit ca într-un tablou”, a spus el. Prietena lui l-a îndemnat să observe relația dintre lucruri și efectul luminii. Teo a rămas câteva clipe și a ascultat. La ieșire, a notat că două lucrări foarte diferite îi ceruseră același efort: să nu confunde prima impresie cu înțelegerea lor.",
+    "gap": "În sala următoare, instalația reunea obiecte, {0} și {1}.",
+    "answers": [
+      "lumină",
+      "sunet"
+    ],
+    "questions": [
+      [
+        "Nota finală a lui Teo sugerează că",
+        "înțelegerea lucrărilor cere depășirea primei impresii",
+        "cele două lucrări trebuie privite prin aceeași tehnică",
+        "prima impresie este suficientă dacă recunoaștem formele",
+        "instalația are valoare doar dacă seamănă cu un tablou"
+      ],
+      [
+        "Ce precizare face textul 2 despre instalație?",
+        "Poate reuni mai multe medii, fără să fie obligatoriu digitală.",
+        "Este digitală pentru că folosește orice fel de lumină.",
+        "Are aceeași tehnică de realizare ca icoana pe sticlă.",
+        "Folosește obiecte în locul organizării unui spațiu."
+      ],
+      [
+        "Care legătură dintre texte este susținută de exemple?",
+        "Materialul și modul de receptare trebuie observate pentru fiecare lucrare.",
+        "Recunoașterea formelor este suficientă pentru a explica tehnica.",
+        "Sunetul exclude rolul privirii în receptarea instalației.",
+        "Forma contemporană anulează posibilitatea de comparație cu tradiția."
+      ]
+    ],
+    "tf": [
+      {
+        "text": "Prietena lui îi recomandă să ignore relațiile vizuale și să asculte numai sunetul.",
+        "answer": false
+      },
+      {
+        "text": "Teo află că privește icoana prin materialul care îi servește drept suport.",
+        "answer": true
+      },
+      {
+        "text": "Teo constată la final o cerință comună de atenție, în ciuda diferențelor tehnice.",
+        "answer": true
+      },
+      {
+        "text": "Textul 2 atribuie curatorului rolul de a marca deschiderea oficială a expoziției.",
+        "answer": false
+      },
+      {
+        "text": "Diferența dintre mijloace nu împiedică transmiterea ideilor și emoțiilor.",
+        "answer": true
+      },
+      {
+        "text": "Conform textului 2, folosirea luminii dovedește că o instalație este digitală.",
+        "answer": false
+      }
+    ],
+    "text2": "Icoana pe sticlă are o tradiție importantă în Transilvania. Imaginea este pictată pe dosul sticlei și privită prin aceasta, care are rol de suport și protecție. O instalație poate organiza obiecte, sunet, lumină și imagini într-un spațiu. Arta digitală folosește tehnologia digitală, dar nu orice instalație este neapărat digitală. Curatorul selectează și organizează lucrările unei expoziții, iar vernisajul marchează deschiderea oficială. Tehnicile diferite cer atenție la material și la felul în care lucrarea se adresează privitorului. O formă tradițională și un experiment contemporan pot transmite idei și emoții fără să folosească aceleași mijloace. A le compara nu înseamnă a cere uneia să funcționeze exact ca cealaltă.",
+    "minutes": 3,
+    "multiplier": 3,
+    "revision": 2,
+    "questionSources": [
+      "textul 1",
+      "textul 2",
+      "ambele texte"
+    ]
+  }
+]
