@@ -1,32 +1,502 @@
 [
-["Monstrul verbal","Alege enunțul corect.",["Voiam să te întreb ceva.","Vroiam să te întreb ceva."],0,"Folosim «voiam» de la «a voi» sau «vream» de la «a vrea». «Vroiam» amestecă cele două verbe."],
-["Doar sau decât?","Completează: Am cumpărat ___ o carte.",["doar","decât"],0,"Pentru restricție într-un enunț afirmativ folosim «doar» sau «numai»: Am cumpărat doar o carte. «Decât» se folosește cu negație: Nu am cumpărat decât o carte."],
-["Doar sau decât?","Alege enunțul corect.",["Nu am decât două întrebări.","Am decât două întrebări."],0,"În construcția restrictivă cu «decât», verbul este negat: Nu am decât două întrebări."],
-["Care sau pe care?","Completează: Cartea ___ am citit-o este interesantă.",["pe care","care"],0,"Aici «pe care» are funcția de complement direct și este reluat prin «-o». Nu omitem prepoziția «pe»."],
-["Care sau pe care?","Completează: Elevul ___ citește este colegul meu.",["care","pe care"],0,"Aici «care» este subiectul verbului «citește»: cine citește? Elevul. Nu adăugăm «pe»."],
-["Scutul imperativului","Alege îndemnul corect.",["Nu face zgomot!","Nu fă zgomot!"],0,"La imperativ negativ, persoana a II-a singular, folosim forma de infinitiv: a face → Nu face!"],
-["Scutul imperativului","Alege îndemnul corect.",["Nu zice asta!","Nu zi asta!"],0,"Forma negativă este «Nu zice!», după infinitivul «a zice». Forma afirmativă este «Zi!»."],
-["Scutul imperativului","Alege îndemnul corect.",["Nu duce cutia acolo!","Nu du cutia acolo!"],0,"La negativ: «Nu duce!». La afirmativ: «Du!»."],
-["Merită sau se merită?","Alege enunțul potrivit limbii standard.",["Merită să încerci.","Se merită să încerci."],0,"În această construcție folosim «merită», fără pronumele «se»."],
-["Dragele sau dragile?","Completează: ___ mele colege, vă mulțumesc!",["Dragile","Dragele"],0,"Adjectivul «drag» are la plural forma «dragi» atât pentru masculin, cât și pentru feminin. Cu articol: «dragile»."],
-["Un obiect, nu două","Alege forma de singular corectă.",["O broșă frumoasă.","O broșe frumoasă."],0,"Forma de singular este «broșă», iar pluralul este «broșe»."],
-["Un obiect, nu două","Alege forma de singular corectă.",["O păpușă.","O păpușe."],0,"Singular: «păpușă». Plural: «păpuși»."],
-["Literele care se ajută","Completează: Trebuie să ne ___ înainte de spectacol.",["îmbrăcăm","înbrăcăm"],0,"În acest cuvânt scriem «m» înainte de «b»: îmbrăcăm."],
-["Literele care se ajută","Alege forma corectă.",["împăcare","înpăcare"],0,"Scriem «împăcare», cu «m» înainte de «p»."],
-["Salvat de virgulă","Cum îi chemi pe copii la masă?",["Hai să mâncăm, copii!","Hai să mâncăm copii!"],0,"«Copii» este o adresare directă, la vocativ, și se desparte prin virgulă de restul enunțului."],
-["O virgulă în plus","Alege enunțul punctuat corect.",["Elevii care au învățat au reușit.","Elevii care au învățat, au reușit."],0,"Nu despărțim prin virgulă subiectul de predicat. Aici secvența «care au învățat» restrânge grupul elevilor."],
-["Explicația dintre virgule","Alege enunțul corect.",["Ana, prietena mea, a venit.","Ana prietena mea, a venit."],0,"Explicația suplimentară «prietena mea» este o apoziție și este delimitată prin două virgule."],
-["Borcanul cu plurale","Completează: Am cumpărat două ___ cu ciocolată.",["eclere","ecleruri"],0,"Pluralul substantivului «ecler» este «eclere»."],
-["Borcanul cu plurale","Completează: La brutărie sunt trei ___ proaspete.",["croasante","croasanți"],0,"Substantivul «croasant» are pluralul «croasante»."],
-["Borcanul cu plurale","Completează: Magazinul vinde două ___ electrice.",["aragaze","aragazuri"],0,"Pluralul substantivului «aragaz» este «aragaze»."],
-["Cratima de la intrare","Alege scrierea corectă.",["site-ul școlii","siteul școlii"],0,"La «site», finala scrisă diferă de cea pronunțată; articolul se leagă prin cratimă: site-ul."],
-["Cratima de la intrare","Alege scrierea corectă.",["meciul de ieri","meci-ul de ieri"],0,"La «meci» articolul se atașează fără cratimă: meciul."],
-["Cine creează?","Completează: Artista ___ un colaj.",["creează","crează"],0,"Scriem «creează», cu doi «e»: unul aparține rădăcinii, iar celălalt terminației."],
-["Cuvinte de prisos","Alege formularea fără pleonasm.",["Protagonistul poveștii.","Protagonistul principal al poveștii."],0,"«Protagonist» înseamnă personaj principal. Adăugarea lui «principal» repetă aceeași informație."],
-["Cuvinte de prisos","Alege formularea fără pleonasm.",["Un panaceu.","Un panaceu universal."],0,"«Panaceu» desemnează un remediu considerat bun pentru toate bolile; «universal» repetă această idee."],
-["Rolul profesional","Alege exprimarea firească pentru un rol.",["Ca elev, îmi verific răspunsurile.","Ca și elev, îmi verific răspunsurile."],0,"Pentru sensul «în calitate de», este suficient «ca»: Ca elev... Nu adăugăm mecanic «și»."],
-["Prefixul potrivit","Alege scrierea corectă.",["dezaprobă","desaprobă"],0,"Forma corectă este «dezaprobă», de la «a dezaproba»."],
-["Prefixul potrivit","Alege scrierea corectă.",["desface","dezface"],0,"Forma corectă este «desface», cu prefixul «des-»."],
-["Nu mai sau numai?","Completează: ___ am timp astăzi.",["Nu mai","Numai"],0,"«Nu mai» exprimă încetarea ori absența unei posibilități. «Numai» înseamnă «doar»."],
-["Nu mai sau numai?","Completează: Am ___ cinci minute.",["numai","nu mai"],0,"Aici sensul este «doar cinci minute», deci scriem «numai», într-un cuvânt."]
+  [
+    "Monstrul verbal",
+    "Alege enunțul corect.",
+    [
+      "Voiam să te întreb ceva.",
+      "Vroiam să te întreb ceva."
+    ],
+    0,
+    "Folosim «voiam» de la «a voi» sau «vream» de la «a vrea». «Vroiam» amestecă cele două verbe."
+  ],
+  [
+    "Doar sau decât?",
+    "Completează: Am cumpărat ___ o carte.",
+    [
+      "doar",
+      "decât"
+    ],
+    0,
+    "Pentru restricție într-un enunț afirmativ folosim «doar» sau «numai»: Am cumpărat doar o carte. «Decât» se folosește cu negație: Nu am cumpărat decât o carte."
+  ],
+  [
+    "Doar sau decât?",
+    "Alege enunțul corect.",
+    [
+      "Nu am decât două întrebări.",
+      "Am decât două întrebări."
+    ],
+    0,
+    "În construcția restrictivă cu «decât», verbul este negat: Nu am decât două întrebări."
+  ],
+  [
+    "Care sau pe care?",
+    "Completează: Cartea ___ am citit-o este interesantă.",
+    [
+      "pe care",
+      "care"
+    ],
+    0,
+    "Aici «pe care» are funcția de complement direct și este reluat prin «-o». Nu omitem prepoziția «pe»."
+  ],
+  [
+    "Care sau pe care?",
+    "Completează: Elevul ___ citește este colegul meu.",
+    [
+      "care",
+      "pe care"
+    ],
+    0,
+    "Aici «care» este subiectul verbului «citește»: cine citește? Elevul. Nu adăugăm «pe»."
+  ],
+  [
+    "Scutul imperativului",
+    "Alege îndemnul corect.",
+    [
+      "Nu face zgomot!",
+      "Nu fă zgomot!"
+    ],
+    0,
+    "La imperativ negativ, persoana a II-a singular, folosim forma de infinitiv: a face → Nu face!"
+  ],
+  [
+    "Scutul imperativului",
+    "Alege îndemnul corect.",
+    [
+      "Nu zice asta!",
+      "Nu zi asta!"
+    ],
+    0,
+    "Forma negativă este «Nu zice!», după infinitivul «a zice». Forma afirmativă este «Zi!»."
+  ],
+  [
+    "Scutul imperativului",
+    "Alege îndemnul corect.",
+    [
+      "Nu duce cutia acolo!",
+      "Nu du cutia acolo!"
+    ],
+    0,
+    "La negativ: «Nu duce!». La afirmativ: «Du!»."
+  ],
+  [
+    "Merită sau se merită?",
+    "Alege enunțul potrivit limbii standard.",
+    [
+      "Merită să încerci.",
+      "Se merită să încerci."
+    ],
+    0,
+    "În această construcție folosim «merită», fără pronumele «se»."
+  ],
+  [
+    "Dragele sau dragile?",
+    "Completează: ___ mele colege, vă mulțumesc!",
+    [
+      "Dragile",
+      "Dragele"
+    ],
+    0,
+    "Adjectivul «drag» are la plural forma «dragi» atât pentru masculin, cât și pentru feminin. Cu articol: «dragile»."
+  ],
+  [
+    "Un obiect, nu două",
+    "Alege forma de singular corectă.",
+    [
+      "O broșă frumoasă.",
+      "O broșe frumoasă."
+    ],
+    0,
+    "Forma de singular este «broșă», iar pluralul este «broșe»."
+  ],
+  [
+    "Un obiect, nu două",
+    "Alege forma de singular corectă.",
+    [
+      "O păpușă.",
+      "O păpușe."
+    ],
+    0,
+    "Singular: «păpușă». Plural: «păpuși»."
+  ],
+  [
+    "Literele care se ajută",
+    "Completează: Trebuie să ne ___ înainte de spectacol.",
+    [
+      "îmbrăcăm",
+      "înbrăcăm"
+    ],
+    0,
+    "În acest cuvânt scriem «m» înainte de «b»: îmbrăcăm."
+  ],
+  [
+    "Literele care se ajută",
+    "Alege forma corectă.",
+    [
+      "împăcare",
+      "înpăcare"
+    ],
+    0,
+    "Scriem «împăcare», cu «m» înainte de «p»."
+  ],
+  [
+    "Salvat de virgulă",
+    "Cum îi chemi pe copii la masă?",
+    [
+      "Hai să mâncăm, copii!",
+      "Hai să mâncăm copii!"
+    ],
+    0,
+    "«Copii» este o adresare directă, la vocativ, și se desparte prin virgulă de restul enunțului."
+  ],
+  [
+    "O virgulă în plus",
+    "Alege enunțul punctuat corect.",
+    [
+      "Elevii care au învățat au reușit.",
+      "Elevii care au învățat, au reușit."
+    ],
+    0,
+    "Nu despărțim prin virgulă subiectul de predicat. Aici secvența «care au învățat» restrânge grupul elevilor."
+  ],
+  [
+    "Explicația dintre virgule",
+    "Alege enunțul corect.",
+    [
+      "Ana, prietena mea, a venit.",
+      "Ana prietena mea, a venit."
+    ],
+    0,
+    "Explicația suplimentară «prietena mea» este o apoziție și este delimitată prin două virgule."
+  ],
+  [
+    "Borcanul cu plurale",
+    "Completează: Am cumpărat două ___ cu ciocolată.",
+    [
+      "eclere",
+      "ecleruri"
+    ],
+    0,
+    "Pluralul substantivului «ecler» este «eclere»."
+  ],
+  [
+    "Borcanul cu plurale",
+    "Completează: La brutărie sunt trei ___ proaspete.",
+    [
+      "croasante",
+      "croasanți"
+    ],
+    0,
+    "Substantivul «croasant» are pluralul «croasante»."
+  ],
+  [
+    "Borcanul cu plurale",
+    "Completează: Magazinul vinde două ___ electrice.",
+    [
+      "aragaze",
+      "aragazuri"
+    ],
+    0,
+    "Pluralul substantivului «aragaz» este «aragaze»."
+  ],
+  [
+    "Cratima de la intrare",
+    "Alege scrierea corectă.",
+    [
+      "site-ul școlii",
+      "siteul școlii"
+    ],
+    0,
+    "La «site», finala scrisă diferă de cea pronunțată; articolul se leagă prin cratimă: site-ul."
+  ],
+  [
+    "Cratima de la intrare",
+    "Alege scrierea corectă.",
+    [
+      "meciul de ieri",
+      "meci-ul de ieri"
+    ],
+    0,
+    "La «meci» articolul se atașează fără cratimă: meciul."
+  ],
+  [
+    "Cine creează?",
+    "Completează: Artista ___ un colaj.",
+    [
+      "creează",
+      "crează"
+    ],
+    0,
+    "Scriem «creează», cu doi «e»: unul aparține rădăcinii, iar celălalt terminației."
+  ],
+  [
+    "Cuvinte de prisos",
+    "Alege formularea fără pleonasm.",
+    [
+      "Protagonistul poveștii.",
+      "Protagonistul principal al poveștii."
+    ],
+    0,
+    "«Protagonist» înseamnă personaj principal. Adăugarea lui «principal» repetă aceeași informație."
+  ],
+  [
+    "Cuvinte de prisos",
+    "Alege formularea fără pleonasm.",
+    [
+      "Un panaceu.",
+      "Un panaceu universal."
+    ],
+    0,
+    "«Panaceu» desemnează un remediu considerat bun pentru toate bolile; «universal» repetă această idee."
+  ],
+  [
+    "Rolul profesional",
+    "Alege exprimarea firească pentru un rol.",
+    [
+      "Ca elev, îmi verific răspunsurile.",
+      "Ca și elev, îmi verific răspunsurile."
+    ],
+    0,
+    "Pentru sensul «în calitate de», este suficient «ca»: Ca elev... Nu adăugăm mecanic «și»."
+  ],
+  [
+    "Prefixul potrivit",
+    "Alege scrierea corectă.",
+    [
+      "dezaprobă",
+      "desaprobă"
+    ],
+    0,
+    "Forma corectă este «dezaprobă», de la «a dezaproba»."
+  ],
+  [
+    "Prefixul potrivit",
+    "Alege scrierea corectă.",
+    [
+      "desface",
+      "dezface"
+    ],
+    0,
+    "Forma corectă este «desface», cu prefixul «des-»."
+  ],
+  [
+    "Nu mai sau numai?",
+    "Completează: ___ am timp astăzi.",
+    [
+      "Nu mai",
+      "Numai"
+    ],
+    0,
+    "«Nu mai» exprimă încetarea ori absența unei posibilități. «Numai» înseamnă «doar»."
+  ],
+  [
+    "Nu mai sau numai?",
+    "Completează: Am ___ cinci minute.",
+    [
+      "numai",
+      "nu mai"
+    ],
+    0,
+    "Aici sensul este «doar cinci minute», deci scriem «numai», într-un cuvânt."
+  ],
+  [
+    "Puțin, dar corect",
+    "Completează: Mai așteaptă ___ înainte să răspunzi.",
+    [
+      "un pic",
+      "umpic"
+    ],
+    0,
+    "Scriem «un pic», în două cuvinte. Chiar dacă în rostirea rapidă sunetele se apropie, nu scriem «umpic». Sensul este «puțin»."
+  ],
+  [
+    "Cealaltă variantă",
+    "Completează: Aleg ___ variantă de răspuns.",
+    [
+      "cealaltă",
+      "cealantă"
+    ],
+    0,
+    "Forma corectă este «cealaltă», cu «l», nu «cealantă». La masculin: «celălalt»; la plural: «celelalte», «ceilalți»."
+  ],
+  [
+    "S-a întâmplat brusc",
+    "Alege enunțul cu sensul «brusc s-a stins lumina».",
+    [
+      "Deodată, s-a stins lumina.",
+      "De o dată, s-a stins lumina."
+    ],
+    0,
+    "«Deodată» înseamnă aici «brusc» și se scrie într-un cuvânt. «De o dată» poate fi corect în alt context, când «dată» este substantiv: «Am nevoie de o dată exactă pentru excursie.»"
+  ],
+  [
+    "Fă loc!",
+    "Completează îndemnul cu forma adverbială: Dă-te ___, te rog!",
+    [
+      "laoparte",
+      "la o parte"
+    ],
+    0,
+    "Pentru sensul «într-o parte, din drum», DOOM 3 indică adverbul «laoparte»: «Dă-te laoparte!». Scrierea separată poate apărea când «parte» este substantiv: «Mă refer la o parte din text.»"
+  ],
+  [
+    "Mi-ar plăcea",
+    "Completează: Mi-ar ___ să vizitez muzeul.",
+    [
+      "plăcea",
+      "place"
+    ],
+    0,
+    "După «ar», aici folosim infinitivul «a plăcea»: «Mi-ar plăcea». «Place» este corect la prezent: «Îmi place muzeul.» Nu le confundăm."
+  ],
+  [
+    "Însuși și însăși",
+    "Alege acordul corect.",
+    [
+      "Profesorul însuși și profesoara însăși au verificat răspunsul.",
+      "Profesorul însăși și profesoara însuși au verificat răspunsul."
+    ],
+    0,
+    "Acordăm forma de întărire cu persoana la care se referă: «el însuși», «ea însăși». Pentru vorbitor: «eu însumi», dacă este bărbat, sau «eu însămi», dacă este femeie."
+  ],
+  [
+    "Adică, așadar",
+    "Completează cu sensul «așadar»: ___, ai găsit soluția!",
+    [
+      "Carevasăzică",
+      "Care va să zică"
+    ],
+    0,
+    "Cu sensul «așadar, adică», scriem «carevasăzică», într-un cuvânt. Nu îl desfacem după felul în care îi auzim părțile."
+  ],
+  [
+    "Aceeași idee",
+    "Completează: Avem ___ idee pentru proiect.",
+    [
+      "aceeași",
+      "aceași"
+    ],
+    0,
+    "Scriem «aceeași», cu doi «e»: «aceeași idee». Nu confundăm cu «aceiași», forma de masculin plural: «aceiași colegi»."
+  ],
+  [
+    "Să fii atent",
+    "Completează: Este important să ___ atent la cerință.",
+    [
+      "fii",
+      "fi"
+    ],
+    0,
+    "La persoana a II-a singular, conjunctiv prezent: «tu să fii», cu doi «i». În schimb: «voi fi», «aș fi», «nu fi!» au un singur «i». Conjunctivul perfect are tot «fi»: «să fi citit»."
+  ],
+  [
+    "Să știi regula",
+    "Completează: Vreau să ___ de ce ai ales răspunsul.",
+    [
+      "știi",
+      "ști"
+    ],
+    0,
+    "Pentru «tu», scriem «știi» și «să știi», cu doi «i». Infinitivul este «a ști», iar viitorul este «vei ști», cu un singur «i» final."
+  ],
+  [
+    "Să ții minte",
+    "Completează: Încearcă să ___ minte exemplul.",
+    [
+      "ții",
+      "ți"
+    ],
+    0,
+    "Forma verbului «a ține» este «tu ții» sau «tu să ții», cu doi «i». «Ți» este o formă a pronumelui, ca în «Ți-am explicat»."
+  ],
+  [
+    "Să vii mâine",
+    "Completează: Te rog să ___ mâine la bibliotecă.",
+    [
+      "vii",
+      "vi"
+    ],
+    0,
+    "La persoana a II-a singular: «tu vii», «tu să vii», cu doi «i». Nu confundăm verbul cu pronumele «vi» din «Vi se explică regula». Viitorul este «vei veni»."
+  ],
+  [
+    "Pluralul eseului",
+    "Completează: Am citit două ___ despre prietenie.",
+    [
+      "eseuri",
+      "esee"
+    ],
+    0,
+    "Pluralul substantivului «eseu» este «eseuri». Scriem «două eseuri», nu «două esee»."
+  ],
+  [
+    "Cum scriem viitorul?",
+    "Completează: Ne pregătim pentru ___.",
+    [
+      "viitorul",
+      "vitorul"
+    ],
+    0,
+    "«Viitor» și «viitorul» se scriu cu doi «i» alăturați: vi-i-tor. Nu eliminăm un «i» chiar dacă rostim cuvântul repede."
+  ],
+  [
+    "Motivul dintr-un cuvânt",
+    "Completează: Recitesc textul ___ vreau să-l înțeleg.",
+    [
+      "fiindcă",
+      "findcă"
+    ],
+    0,
+    "Conjuncția «fiindcă» se scrie cu doi «i». Introduce aici motivul recitirii: vreau să înțeleg textul. Reține și forma «fiind», tot cu doi «i»."
+  ],
+  [
+    "Fiică sau fică?",
+    "Completează: Vecina are o ___ pasionată de lectură.",
+    [
+      "fiică",
+      "fică"
+    ],
+    0,
+    "Substantivul «fiică» se scrie cu doi «i»: fi-i-că. Cu articol: «fiica»; la plural: «fiice»."
+  ],
+  [
+    "Să devii mai bun",
+    "Completează: Prin exercițiu poți să ___ mai atent.",
+    [
+      "devii",
+      "devi"
+    ],
+    0,
+    "Pentru «tu», forma corectă este «devii» sau «să devii», cu doi «i». Infinitivul este «a deveni», iar la viitor spunem «vei deveni»."
+  ],
+  [
+    "A cărui carte?",
+    "Completează: Băiatul ___ carte o citesc este colegul meu.",
+    [
+      "a cărui",
+      "al cărui"
+    ],
+    0,
+    "În această construcție, «a» se acordă cu obiectul posedat: «carte», feminin singular. «Cărui» trimite la posesor: «băiatul», masculin singular. De aceea: «băiatul a cărui carte», dar «băiatul al cărui caiet»."
+  ],
+  [
+    "Creând o poveste",
+    "Completează: Învățăm cuvinte noi ___ o poveste.",
+    [
+      "creând",
+      "creeând"
+    ],
+    0,
+    "Gerunziul verbului «a crea» este «creând», cu un singur «e». Nu copiem cei doi «e» din forme precum «creează»."
+  ],
+  [
+    "Noștri și voștri",
+    "Alege enunțul corect.",
+    [
+      "Prietenii noștri lucrează cu colegii voștri.",
+      "Prietenii noștrii lucrează cu colegii voștrii."
+    ],
+    0,
+    "«Noștri» și «voștri» se scriu cu un singur «i» final. Substantivele articulate pot avea doi: «prietenii noștri», «colegii voștri». Articolul substantivului nu se adaugă și posesivului."
+  ]
 ]
